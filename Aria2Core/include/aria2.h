@@ -95,7 +95,7 @@ typedef uint64_t A2Gid;
  *
  * The type of Key/Value pairs.
  */
-typedef std::vector<std::pair<std::string, std::string>> KeyVals;
+typedef std::vector<std::pair<std::string, std::string> > KeyVals;
 
 /**
  * @enum
